@@ -50,7 +50,8 @@ title: 'Lab 3: IVR and Contact Routing'
 
 # Lab Pre-requisites
 
-> ## The Steps below summarize/recap Lab 1. Ensure you have Completed [Lab 1: Part 5 & 6 here](Lab1.md){:target="\_blank"}
+> ## The Steps below summarize/recap Lab 1. 
+  Ensure you have Completed [Lab 1: Part 5 & 6 here](Lab1.md){:target="\_blank"}
 
 > These tasks are to be completed by the customer administrator. At the end of the lab pre-requisites, you should be able to login an agent in the agent desktop application with the configured user extension.
 
