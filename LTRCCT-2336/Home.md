@@ -1,9 +1,9 @@
 ---
 title: 'Dip into NEW Digital Channels for Webex Contact Center'
-## Session: LTRCCT-2013
-## Speakers: Gagarin Sathiyanarayanan, Carles Duz Palau, Dmitry Bokatov
+## Session: LTRCCT-2336
+## Speakers: Mayur Vyas
 ---
-[Switch to LIGHT MODE](https://wxcctechsummit.github.io/ltrcct-2013){:target="\_blank"}
+[Switch to LIGHT MODE](https://wxcctechsummit.github.io/ltrcct-2336){:target="\_blank"}
 
 <img align="middle" src="images/Admin.jpeg" width="1000" />
 
